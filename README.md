@@ -60,6 +60,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:--------|:--------:|:--------:|:--------:|
 | [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/abs/1802.00124)| ICLR | `F` | [github](https://github.com/jack-willturner/batchnorm-pruning)|
 | [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)| ICLR | `W` | -|
+| [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312)| ICLR | `F` | [github](https://github.com/AMLab-Amsterdam/L0_regularization)|
 | [Discrimination-aware Channel Pruning for Deep Neural Networks](https://arxiv.org/abs/1810.11809)| NIPS | `F` | [github](https://github.com/SCUT-AILab/DCP)|
 | [Frequency-Domain Dynamic Pruning for Convolutional Neural Networks](https://papers.nips.cc/paper/7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks.pdf)| NIPS | `W` | - |
 | [Amc: Automl for model compression and acceleration on mobile devices](https://arxiv.org/abs/1802.03494)| ECCV | `F` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
